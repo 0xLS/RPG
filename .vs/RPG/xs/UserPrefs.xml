@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{FD5A2D3B-6A1B-46FE-B66F-42555F5B4803}|Default">
+  <MonoDevelop.Ide.ItemProperties.RPG PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RPG/Program.cs">
+    <Files>
+      <File FileName="RPG/Program.cs" Line="10" Column="4" />
+      <File FileName="RPG/Participents/Participants.cs" Line="106" Column="51" />
+      <File FileName="RPG/Interfaces/IParticipantsFactory.cs" Line="6" Column="33" />
+      <File FileName="RPG/Helpers/RNG.cs" Line="28" Column="2" />
+      <File FileName="RPG/Factories/GameFactory.cs" Line="32" Column="50" />
+      <File FileName="RPG/Factories/ArmorFactory.cs" Line="23" Column="77" />
+      <File FileName="RPG/Factories/WeaponFactoryMedevil.cs" Line="11" Column="19" />
+      <File FileName="RPG/Factories/ParticipantFactory.cs" Line="1" Column="66" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RPG" expanded="True">
+            <Node name="RPG" expanded="True">
+              <Node name="Factories" expanded="True" />
+              <Node name="GameManagement" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Items" expanded="True">
+                <Node name="Armor" expanded="True">
+                  <Node name="Iron" expanded="True" />
+                </Node>
+                <Node name="Weapons" expanded="True" />
+              </Node>
+              <Node name="Participents" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
